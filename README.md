@@ -5,8 +5,15 @@ Ditalime - DITA Entry Support Application
 
 `python main.py`
 
+If it works properly, the app bring the screen like the following:
+
+![app image](docs/appimage.jpg)
+
 ## Setup
-Prerequisite: Python 3.7 (Actually, it works 3.5. I'm not sure under 3.5 also works or not.)
+Prerequisite:
+
+* Python 3.7 (Actually, it works 3.5. I'm not sure under 3.5 also works or not.)
+* Tkinter(note: Mac OS default Tkinter has known issue, see [IDLE and tkinter with Tcl/Tk on macOS | Python.org](https://www.python.org/download/mac/tcltk/))
 
 ### Library Installation
 Install the library with the following command:
